@@ -1,0 +1,8 @@
+[submodule "project-management-system-fe"]
+	path = project-management-system-fe
+	url = https://github.com/saianirud/project-management-system-fe.git
+	branch = master
+[submodule "project-management-system-be"]
+	path = project-management-system-be
+	url = https://github.com/saianirud/project-management-system-be.git
+	branch = master
